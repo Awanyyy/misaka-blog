@@ -150,9 +150,6 @@ export default defineUserConfig({
   base: '/misaka-blog/',
   lang: 'zh-CN',
   
-  markdown: {
-    code: {
-      lineNumbers: false
-    }
-  }
+  // Markdown 配置
+  // 注意：markdown.code 选项已废弃，代码高亮由主题自动处理
 })
