@@ -147,7 +147,7 @@ export default defineUserConfig({
   // GitHub Pages 部署配置
   // 如果你的仓库名是 my-blog，这里应该是 '/my-blog/'
   // 如果使用自定义域名或 username.github.io，则保持 '/'
-  base: '/my-blog/',
+  base: '/misaka-blog/',
   lang: 'zh-CN',
   
   markdown: {
